@@ -6,7 +6,6 @@ E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\bin\Debug\net8.0-win
 E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\bin\Debug\net8.0-windows\Aplikacja finansowa WPF.dll
 E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\bin\Debug\net8.0-windows\Aplikacja finansowa WPF.pdb
 E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\obj\Debug\net8.0-windows\MainWindow.g.cs
-E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\obj\Debug\net8.0-windows\Aplikacja finansowa WPF_MarkupCompile.lref
 E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\obj\Debug\net8.0-windows\MainWindow.baml
 E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\obj\Debug\net8.0-windows\Aplikacja finansowa WPF.g.resources
 E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\obj\Debug\net8.0-windows\Aplikacja finansowa WPF.GeneratedMSBuildEditorConfig.editorconfig
@@ -18,3 +17,10 @@ E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\obj\Debug\net8.0-win
 E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\obj\Debug\net8.0-windows\Aplikacja finansowa WPF.pdb
 E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\obj\Debug\net8.0-windows\Aplikacja finansowa WPF.genruntimeconfig.cache
 E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\obj\Debug\net8.0-windows\ref\Aplikacja finansowa WPF.dll
+E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\obj\Debug\net8.0-windows\Aplikacja finansowa WPF.sourcelink.json
+E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\obj\Debug\net8.0-windows\TransactionWindow.baml
+E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\obj\Debug\net8.0-windows\TransactionWindow.g.cs
+E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\bin\Debug\net8.0-windows\LiveCharts.dll
+E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
+E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\obj\Debug\net8.0-windows\Aplikacja finansowa WPF.csproj.AssemblyReference.cache
+E:\Projects\Aplikacja finansowa WPF\Aplikacja finansowa WPF\obj\Debug\net8.0-windows\Aplikacja finansowa WPF.csproj.CopyComplete
