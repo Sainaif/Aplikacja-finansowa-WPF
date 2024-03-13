@@ -10,6 +10,6 @@ public class Transaction
     {
         Amount = amount;
         Date = DateTime.Now;
-        Description = description ?? "Brak opisu";//test
+        Description = description ?? "Brak opisu";
     }
 }
